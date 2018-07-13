@@ -1,0 +1,45 @@
+body
+{
+/* background-image: URL("cap1.jpg"); */
+background-color: #403A4B;
+/* background-repeat: no-repeat;
+background-position: center; */
+font-family: 'Short Stack', cursive;
+
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale; 
+}
+
+.c
+{
+font-size: 2.59em;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+
+.d
+{
+font-size: 2em;
+text-align: center;
+color: gray;
+font-weight: bold;
+}
+
+
+.e
+{
+font-size: 2.465em;
+font-family: 'Nunito', sans-serif;
+text-align: center;
+color: rgb(133, 133, 133);
+font-weight: bold;
+}
+
+.f
+{
+font-family: 'Gaegu', cursive;
+text-align: center;
+color: black;
+font-size: 2.4em;}
